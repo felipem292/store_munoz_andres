@@ -1,0 +1,21 @@
+.header {
+	position: sticky;
+	display: flex;
+	background-color: #fff;
+	color: #000;
+	padding: 20px;
+	justify-content: space-between;
+	align-items: center;
+	font-weight: bold;
+	top: 0;
+}
+
+.box {
+	margin-right: 20px;
+	cursor: pointer;
+	background-color: #ffb200ad;
+	padding: 10px 20px;
+	border-radius: 25px;
+	text-decoration: none;
+	color: unset;
+}

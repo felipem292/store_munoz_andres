@@ -1,0 +1,28 @@
+.filters {
+	padding: 20px 0;
+}
+
+.divButtons {
+	display: inline;
+}
+
+.button {
+	padding: 10px 30px;
+	background-color: #eb958e;
+	color: white;
+	font-weight: 800;
+	border: none;
+	border-radius: 25px;
+	cursor: pointer;
+	margin-left: 2%;
+	font-size: 1rem;
+}
+
+.button.active {
+	background-color: #0ad4fa;
+}
+.button:active,
+.button:focus {
+	border: none;
+	outline: none;
+}
