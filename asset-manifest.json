@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/store_munoz_andres/static/css/main.a92de53d.chunk.css",
+    "main.js": "/store_munoz_andres/static/js/main.d8e676ed.chunk.js",
+    "main.js.map": "/store_munoz_andres/static/js/main.d8e676ed.chunk.js.map",
+    "runtime-main.js": "/store_munoz_andres/static/js/runtime-main.97fc9855.js",
+    "runtime-main.js.map": "/store_munoz_andres/static/js/runtime-main.97fc9855.js.map",
+    "static/css/2.441070da.chunk.css": "/store_munoz_andres/static/css/2.441070da.chunk.css",
+    "static/js/2.6cd4c6a5.chunk.js": "/store_munoz_andres/static/js/2.6cd4c6a5.chunk.js",
+    "static/js/2.6cd4c6a5.chunk.js.map": "/store_munoz_andres/static/js/2.6cd4c6a5.chunk.js.map",
+    "index.html": "/store_munoz_andres/index.html",
+    "precache-manifest.ad46e5ee954c6fc3eb403ada33fce169.js": "/store_munoz_andres/precache-manifest.ad46e5ee954c6fc3eb403ada33fce169.js",
+    "service-worker.js": "/store_munoz_andres/service-worker.js",
+    "static/css/2.441070da.chunk.css.map": "/store_munoz_andres/static/css/2.441070da.chunk.css.map",
+    "static/css/main.a92de53d.chunk.css.map": "/store_munoz_andres/static/css/main.a92de53d.chunk.css.map",
+    "static/js/2.6cd4c6a5.chunk.js.LICENSE.txt": "/store_munoz_andres/static/js/2.6cd4c6a5.chunk.js.LICENSE.txt",
+    "static/media/error.jpg": "/store_munoz_andres/static/media/error.46e33ae4.jpg",
+    "static/media/header-x2.png": "/store_munoz_andres/static/media/header-x2.a343e153.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.97fc9855.js",
+    "static/css/2.441070da.chunk.css",
+    "static/js/2.6cd4c6a5.chunk.js",
+    "static/css/main.a92de53d.chunk.css",
+    "static/js/main.d8e676ed.chunk.js"
+  ]
+}
